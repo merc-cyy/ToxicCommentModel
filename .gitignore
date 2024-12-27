@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+toxic/
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# Data files (if you want to exclude them)
+data/
+results/
